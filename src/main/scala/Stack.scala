@@ -44,7 +44,7 @@ class Stack {
   
 
 }
-
+/*
 object StackTest {
 
   def main(args: Array[String]) {
@@ -65,3 +65,4 @@ object StackTest {
   }
 
 }
+*/

@@ -1,6 +1,9 @@
 *.class
 *.log
 
+#Ignore emacs copies
+*.scala~
+
 # sbt specific
 dist/*
 target/
