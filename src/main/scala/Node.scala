@@ -11,7 +11,7 @@ class Node(private var _data: Int) {
   def next_= (newNext: Node) = _next = newNext
 
   override def toString: String = {
-    "Node id: " + data 
+    "Node data: " + data 
   }
 
 }
